@@ -1,0 +1,18 @@
+{
+  "files": {
+    "main.css": "/robofriendz/static/css/main.6260b386.chunk.css",
+    "main.js": "/robofriendz/static/js/main.7ce10320.chunk.js",
+    "main.js.map": "/robofriendz/static/js/main.7ce10320.chunk.js.map",
+    "runtime~main.js": "/robofriendz/static/js/runtime~main.77c9d905.js",
+    "runtime~main.js.map": "/robofriendz/static/js/runtime~main.77c9d905.js.map",
+    "static/css/2.31dafeb2.chunk.css": "/robofriendz/static/css/2.31dafeb2.chunk.css",
+    "static/js/2.1a543e43.chunk.js": "/robofriendz/static/js/2.1a543e43.chunk.js",
+    "static/js/2.1a543e43.chunk.js.map": "/robofriendz/static/js/2.1a543e43.chunk.js.map",
+    "index.html": "/robofriendz/index.html",
+    "precache-manifest.18be303af93cf919a738c1f3041b87a2.js": "/robofriendz/precache-manifest.18be303af93cf919a738c1f3041b87a2.js",
+    "service-worker.js": "/robofriendz/service-worker.js",
+    "static/css/2.31dafeb2.chunk.css.map": "/robofriendz/static/css/2.31dafeb2.chunk.css.map",
+    "static/css/main.6260b386.chunk.css.map": "/robofriendz/static/css/main.6260b386.chunk.css.map",
+    "static/media/App.css": "/robofriendz/static/media/Stingray.88468592.woff"
+  }
+}
